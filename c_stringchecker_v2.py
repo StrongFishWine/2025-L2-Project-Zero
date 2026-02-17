@@ -1,5 +1,3 @@
-from c_yesandnosimple import yes_no
-
 
 # functions here go
 def string_check(question, valid_ans_list, num_letters):
